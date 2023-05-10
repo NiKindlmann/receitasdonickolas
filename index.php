@@ -7,6 +7,6 @@
   <body>
     <h1>MINHA PÁGINA INICIAL</h1>
     <p>PÁGINA INICIAL</p>
-    <ahref"#" class="button"> ENTRE EM CONTATO</a>
+    <a href"#" class="button"> ENTRE EM CONTATO</a>
   </body>
 </html>
