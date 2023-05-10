@@ -5,8 +5,12 @@
     <link rel="stylesheet" href="personalização.css">
   </head>
   <body>
-    <h1>MINHA PÁGINA INICIAL</h1>
-    <p>PÁGINA INICIAL</p>
-<a href="#" class="button">ENTRE EM CONTATO</a>
+    <header>
+      <h1>MINHA PÁGINA INICIAL</h1>
+    </header>
+    <main>
+      <p>PÁGINA INICIAL</p>
+      <button type="button">Click Aqui</button>
+    </main>
   </body>
 </html>
