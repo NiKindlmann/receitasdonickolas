@@ -7,6 +7,6 @@
   <body>
     <h1>MINHA PÁGINA INICIAL</h1>
     <p>PÁGINA INICIAL</p>
-    <button>Click Aqui</button>
+<a href="#" class="button">ENTRE EM CONTATO</a>
   </body>
 </html>
